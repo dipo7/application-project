@@ -8,8 +8,7 @@ JAVASCRIPT
 HTML
 
 
-The python codes are consistent with python 2.7 and a couple of libraries have been used to get the code running.
+The python codes are consistent with python 2.7 and uses a MySQL library for python. The library can be found here:
 1. https://sourceforge.net/projects/mysql-python/files/  (MySQL for Python)
-2. http://peewee.readthedocs.io/en/latest/index.html (peewee)
 
 The python codes also have comments within to explain what the code is written to achieve.
